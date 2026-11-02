@@ -48,7 +48,7 @@ Availability is as of November 2026.
 
 | Edition | On Amazon? | With a Kindle | Status | How I know |
 |---|---|---|---|---|
-| E (Kindle) | Coming soon (per the maker) | Works out of the box | ✅ Verified | Sold by the maker as the Kindle edition; not out yet |
+| E (Kindle) | Coming soon (per the maker) | Works out of the box | ✅ Verified | Sold by the maker as the Kindle edition |
 | K (Kobo) | Yes | After updating to `HBTR001-E` | 🟢 Reported | Reddit users did it with the official WeChat mini-program ([example](https://www.reddit.com/r/kindle/comments/1xl9tiz/comment/19rzosvw6l1l0/)); the maker confirms K → E. Not yet tested with this app |
 | Xteink: Amazon "Bluetooth Page Turner Clicker for XTEINK X4 E-Book Reader", shows up as `XT01` | Yes | — | ❌ No | The maker says no: it's Xteink-only hardware. The Amazon listing itself says to pair with "XT01". [A Reddit user](https://www.reddit.com/r/kindle/comments/1xam01u/comment/19s0igvdvu2de/) found no firmware for it in the official mini-program |
 
