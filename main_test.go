@@ -43,7 +43,12 @@ func snapshot(t *testing.T, tt *ui.Tester, name string) {
 		t.Fatal(err)
 	}
 	defer f.Close()
-	if err := png.Encode(f, tt.Image()); err != nil {
+	tt.SetScale(2) // Retina-sharp for the README
+	tt.Frame()
+	img := tt.Image()
+	tt.SetScale(1)
+	tt.Frame()
+	if err := png.Encode(f, img); err != nil {
 		t.Fatal(err)
 	}
 }

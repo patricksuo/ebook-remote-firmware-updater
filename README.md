@@ -10,7 +10,12 @@ update from a Mac, in English.
 
 **[⬇ Download for Mac](https://github.com/patricksuo/ebook-remote-firmware-updater/releases/latest)** · macOS 12 or later · Apple Silicon and Intel
 
+<details>
+<summary>Screenshot</summary>
+
 <img src="docs/images/app.png" width="480" alt="Page Turner Updater: choose the remote, check it, choose the firmware, install">
+
+</details>
 
 > Unofficial, and I'm not affiliated with the manufacturer. Use at your own risk: a firmware update can leave a
 > remote unable to do what it did before.
