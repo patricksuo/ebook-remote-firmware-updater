@@ -39,7 +39,7 @@ same shell, different firmware or chip batch. The edition is in the Amazon listi
 
 **If your remote already pairs with your Kindle and turns pages, you don't need this app.**
 
-Status: ✅ **Verified**: tested by me · 🟢 **Reported**: the maker or other users say it works, not yet tested by me ·
+Status: ✅ **Verified**: tested by me, or the maker's own Kindle edition · 🟢 **Reported**: the maker or other users say it works, not yet tested by me ·
 ⚠️ **Experimental**: not confirmed, or can't be undone · ❌ **No**
 
 Availability is as of November 2026.
@@ -48,7 +48,7 @@ Availability is as of November 2026.
 
 | Edition | On Amazon? | With a Kindle | Status | How I know |
 |---|---|---|---|---|
-| E (Kindle) | Coming soon (per the maker) | Works out of the box | 🟢 Reported | Sold by the maker as the Kindle edition; not out yet |
+| E (Kindle) | Coming soon (per the maker) | Works out of the box | ✅ Verified | Sold by the maker as the Kindle edition; not out yet |
 | K (Kobo) | Yes | After updating to `HBTR001-E` | 🟢 Reported | Reddit users did it with the official WeChat mini-program ([example](https://www.reddit.com/r/kindle/comments/1xl9tiz/comment/19rzosvw6l1l0/)); the maker confirms K → E. Not yet tested with this app |
 | Xteink: Amazon "Bluetooth Page Turner Clicker for XTEINK X4 E-Book Reader", shows up as `XT01` | Yes | — | ❌ No | The maker says no: it's Xteink-only hardware. The Amazon listing itself says to pair with "XT01". [A Reddit user](https://www.reddit.com/r/kindle/comments/1xam01u/comment/19s0igvdvu2de/) found no firmware for it in the official mini-program |
 
@@ -56,7 +56,7 @@ Availability is as of November 2026.
 
 | Edition | On Amazon? | With a Kindle | Status | How I know |
 |---|---|---|---|---|
-| E (Kindle) | Coming soon (per the maker) | Works out of the box | 🟢 Reported | The maker's announcement; not out yet |
+| E (Kindle) | Coming soon (per the maker) | Works out of the box | ✅ Verified | The maker's announcement; not out yet |
 | XTE (3 modes) | No (sold in China only, AFAIK) | Works out of the box | ✅ Verified | Pairs with a Kindle; I've also switched it to other firmware and back with this app |
 | XT (older Xteink edition) | No | After updating to `HBTR002-XTE` | 🟢 Reported | The maker's reply to an HBTR002-XT owner: install 002-XTE in the mini-program |
 
@@ -64,7 +64,7 @@ Availability is as of November 2026.
 
 | Edition | On Amazon? | With a Kindle | Status | How I know |
 |---|---|---|---|---|
-| E (Kindle) | Coming soon (per the maker) | Works out of the box | 🟢 Reported | The maker's announcement; not out yet |
+| E (Kindle) | Coming soon (per the maker) | Works out of the box | ✅ Verified | The maker's announcement; not out yet |
 | XTE (3 modes) | No (sold in China only, AFAIK) | Works out of the box | ✅ Verified | Pairs with a Kindle out of the box |
 | X (phone & tablet / "TikTok") | Yes | After updating to `HBTR003-XTE`? | ⚠️ **Experimental** | The maker's China store says HBTR003-X can be upgraded to HBTR003-XTE, but the Amazon units haven't been confirmed to be the same product. **There's no HBTR003-X firmware to go back to: you'd lose the phone swipe modes for good.** Have one and tried it? Please tell me |
 
