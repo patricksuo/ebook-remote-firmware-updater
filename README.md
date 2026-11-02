@@ -3,7 +3,7 @@
 A free Mac app that updates the firmware of **智联纵维 (Zhilian Zongwei)** Bluetooth page turners
 (HBTR001 / HBTR002 / HBTR003) **without the WeChat mini-program**.
 
-**Why you might need this:** Kindles released in 2024 or later, on Kindle software **5.20.1 or newer**, now accept
+**Why you might need this:** Kindles from 2024 or later and the Kindle Scribe (2022), on Kindle software **5.20.1 or newer**, now accept
 Bluetooth page turners. Many of these remotes ship with Kobo, Xteink or phone firmware and need a firmware update
 before they work with a Kindle. The maker offers that update in a WeChat mini-program; this app does the same
 update from a Mac, in English.
@@ -73,8 +73,10 @@ Availability is as of November 2026.
 | XTE (3 modes) | No (sold in China only, AFAIK) | Works out of the box | ✅ Verified | Pairs with a Kindle out of the box |
 | X (phone & tablet / "TikTok") | Yes | After updating to `HBTR003-XTE`? | ⚠️ **Experimental** | The maker's China store says HBTR003-X can be upgraded to HBTR003-XTE, but the Amazon units haven't been confirmed to be the same product. **There's no HBTR003-X firmware to go back to: you'd lose the phone swipe modes for good.** Have one and tried it? Please tell me |
 
-Kindle side: Kindles released in 2024 or later and the 2022 Kindle Scribe (1st gen) can run Kindle software 5.20.1+,
-which these remotes need. Jailbroken Kindles on older software need Bluetooth/key-mapping plugins instead.
+**Which Kindles work:** Kindle (2024), Kindle Paperwhite (12th gen), Kindle Colorsoft, Kindle Scribe (2024), the 2026
+Kindles, and the Kindle Scribe (2022), with Kindle software 5.20.1.0.2 or later. Older Kindles can't get Bluetooth page
+turning from a software update. To find your model, open *Settings › Device Options › Device Info* on the Kindle.
+Jailbroken Kindles on older software need Bluetooth/key-mapping plugins instead.
 
 In firmware names, `(10.30)` is the maker's build label (it looks like a date), not a version number.
 
@@ -115,7 +117,7 @@ In firmware names, `(10.30)` is the maker's build label (it looks like a date), 
   continues where it stopped.
 - **"Wait … s" after reading the version.** Reading the installed version puts the remote in update mode for up to
   a minute. Wait, or switch it OFF and ON.
-- **The Kindle doesn't find the remote after the update.** Check the Kindle's model and software (5.20.1+), the
+- **The Kindle doesn't find the remote after the update.** Check the Kindle's model and software (see *Which Kindles work* above), the
   switch position (↕ on XTE remotes), and that the remote isn't still connected to the Mac.
 
 ## Where the firmware comes from
