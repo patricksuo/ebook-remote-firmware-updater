@@ -1,0 +1,5 @@
+build/
+bin/
+.mygo/
+.DS_Store
+*.fot

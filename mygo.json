@@ -1,0 +1,11 @@
+{
+  "name": "Page Turner Updater",
+  "identifier": "dev.kpt.pageturner-updater",
+  "version": "0.1.0",
+  "out": "build",
+  "macos": {
+    "infoPlist": {
+      "NSBluetoothAlwaysUsageDescription": "Page Turner Updater talks to your page turner over Bluetooth to check it and install firmware."
+    }
+  }
+}

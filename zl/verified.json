@@ -1,0 +1,98 @@
+{
+ "HBTR001-2025-长按小按键5秒重置蓝牙.fot": {
+  "sha256": "2caa767b467d2c9085de76a1b854025adbd1f63a7d1214b75a629e3a8f7e86ca",
+  "size": 93696
+ },
+ "HBTR001-2026-长按小按键5秒重置蓝牙.fot": {
+  "sha256": "c0ee50c5cb35a1b201d3dce5cc07426f36604c72add5c187c9962545de47244c",
+  "size": 93696
+ },
+ "HBTR001-E-2025(10.30).fot": {
+  "sha256": "83235b6b6d1a9117dfedf966ea31a7039f5c69d23fe9b41d80f97209ce5642ae",
+  "size": 95232
+ },
+ "HBTR001-E-2026(10.30).fot": {
+  "sha256": "8e2aac45d05b86fc6ad126b3ba762cb1c6aebcd4b869641cf5829e568a827f37",
+  "size": 95232
+ },
+ "HBTR001-K-2025-长按小按键5秒重置蓝牙.fot": {
+  "sha256": "e49b6426cc5990993bc6f86f7d1fb50f364de6a0c192c70678e65f54cc6e939c",
+  "size": 94208
+ },
+ "HBTR001-K-2025-长按小按键锁屏.fot": {
+  "sha256": "3acafdbc0a07c3d08d57d0dd9f3b1981b29b3d577dd6a1ce89115b204cbf4f3d",
+  "size": 93696
+ },
+ "HBTR001-K-2026-长按小按键5秒重置蓝牙.fot": {
+  "sha256": "ea1e53500191502d9ab174c532ea146c62de23e928a4f8f58b1dadbe7c4e4a4c",
+  "size": 94208
+ },
+ "HBTR001-K-2026-长按小按键锁屏.fot": {
+  "sha256": "c089d0ed65779d1ef140fd1fc1070dd48a55a82b140d0c3f1c2c9606f161b996",
+  "size": 93696
+ },
+ "HBTR001-XT-2025-长按小按键5秒重置蓝牙.fot": {
+  "sha256": "c5f710dda5f3b95cc7aa514253da65d4e9b0ff81fdded131b2651d11b9dd38e0",
+  "size": 97280
+ },
+ "HBTR001-XT-2026-长按小按键5秒重置蓝牙.fot": {
+  "sha256": "836cc2f27c92dba023b230686ad5d1e021fc67245068ff0ebbbe75ddeac086de",
+  "size": 97280
+ },
+ "HBTR002-KD.fot": {
+  "sha256": "6550343ee7732ec655a52d8518a74df0393064b02a3b1e4b684a3bb6099bf6db",
+  "size": 93696
+ },
+ "HBTR002-X-2025(11.01).fot": {
+  "sha256": "fcbf18281f386f733d94b70d44d9a890ca2c1be5adef138164d9c2c94aecc33c",
+  "size": 101376
+ },
+ "HBTR002-X-2026(11.01).fot": {
+  "sha256": "8a2aac8ea8d83aaac0e6b1bd3af69ad073f0d9375ec2f1a8f9d0c8768764c17a",
+  "size": 101376
+ },
+ "HBTR002-XTE-2025(10.30).fot": {
+  "sha256": "bc4d715c098ae728a721605df0e6c246d529f1ddbf755605aacb5b9a27dc3d8a",
+  "size": 97280
+ },
+ "HBTR002-XTE-2026(10.30).fot": {
+  "sha256": "bdf94acacbd543f5a72c79e86ccc7b2ab7c73a7a6decdaede0ae105c1a5f6d12",
+  "size": 97280
+ },
+ "HBTR003-KD-2026.fot": {
+  "sha256": "b8a8bdf61a716ac39ad044e9728ad6d97210e41042f7166e3feac5bc4b24431a",
+  "size": 97280
+ },
+ "HBTR003-XTE-2025(10.30).fot": {
+  "sha256": "9de15bdd77cea8d6900c7d54b2166ca64467de000d6806751ef89edca395fd53",
+  "size": 96768
+ },
+ "HBTR003-XTE-2026(10.30).fot": {
+  "sha256": "bc48a76c0580d0ce48b43c9ca62d00c96e201761b4e561c92327e92cbc69de31",
+  "size": 96768
+ },
+ "Smart 1-EMM.fot": {
+  "sha256": "b64091d67ff6b2c1ed531aaf170d7cc531614a48129179cc71706ddce88f218b",
+  "size": 100352
+ },
+ "Smart 1-EMM新版本.fot": {
+  "sha256": "a71bef680fb1a65ce9c6ff113d542294f9aa40df4263d5d2beb95204c95d76ae",
+  "size": 103936
+ },
+ "Smart 1-EMP-Kindle-20261030.fot": {
+  "sha256": "53746de3279e75b779c74b1e93a77c241ed9160736654dde191678f143ab6932",
+  "size": 101888
+ },
+ "Smart 1-EMP-kindle新版本-261030.fot": {
+  "sha256": "03489bb041958dadae8dd5bb11d8d370d165697714b9ab0e9cb6e6a09447c597",
+  "size": 104448
+ },
+ "Smart 1-EMP.fot": {
+  "sha256": "ed6f8ed6b0c50cfd8f101850b3411ccf045f13ee79741f27141915c7b8b6e1ce",
+  "size": 100352
+ },
+ "Smart 1-EMP新版本.fot": {
+  "sha256": "5d3bdd68773ad8b25ea59898f53abb1381bb47f9df9b93629a647b19e36e55d3",
+  "size": 104448
+ }
+}

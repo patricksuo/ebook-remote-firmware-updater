@@ -1,0 +1,180 @@
+{
+  "firmwares": [
+    {
+      "version": "v1.0.0",
+      "date": "2026-08-03",
+      "url": "https://diykey-1426533931.cos.ap-guangzhou.myqcloud.com/HBTR001-2025-%E9%95%BF%E6%8C%89%E5%B0%8F%E6%8C%89%E9%94%AE5%E7%A7%92%E9%87%8D%E7%BD%AE%E8%93%9D%E7%89%99.fot",
+      "size": 93696,
+      "description": "固件1"
+    },
+    {
+      "version": "v1.0.0",
+      "date": "2026-08-03",
+      "url": "https://diykey-1426533931.cos.ap-guangzhou.myqcloud.com/HBTR001-2026-%E9%95%BF%E6%8C%89%E5%B0%8F%E6%8C%89%E9%94%AE5%E7%A7%92%E9%87%8D%E7%BD%AE%E8%93%9D%E7%89%99.fot",
+      "size": 93696,
+      "description": "固件2"
+    },
+    {
+      "version": "v1.0.0",
+      "date": "2026-08-03",
+      "url": "https://diykey-1426533931.cos.ap-guangzhou.myqcloud.com/HBTR001-K-2025-%E9%95%BF%E6%8C%89%E5%B0%8F%E6%8C%89%E9%94%AE5%E7%A7%92%E9%87%8D%E7%BD%AE%E8%93%9D%E7%89%99.fot",
+      "size": 94208,
+      "description": "固件3"
+    },
+    {
+      "version": "v1.0.0",
+      "date": "2026-08-03",
+      "url": "https://diykey-1426533931.cos.ap-guangzhou.myqcloud.com/HBTR001-K-2026-%E9%95%BF%E6%8C%89%E5%B0%8F%E6%8C%89%E9%94%AE5%E7%A7%92%E9%87%8D%E7%BD%AE%E8%93%9D%E7%89%99.fot",
+      "size": 94208,
+      "description": "固件4"
+    },
+    {
+      "version": "v1.0.0",
+      "date": "2026-08-03",
+      "url": "https://diykey-1426533931.cos.ap-guangzhou.myqcloud.com/HBTR001-XT-2025-%E9%95%BF%E6%8C%89%E5%B0%8F%E6%8C%89%E9%94%AE5%E7%A7%92%E9%87%8D%E7%BD%AE%E8%93%9D%E7%89%99.fot",
+      "size": 97280,
+      "description": "固件5"
+    },
+    {
+      "version": "v1.0.0",
+      "date": "2026-08-03",
+      "url": "https://diykey-1426533931.cos.ap-guangzhou.myqcloud.com/HBTR001-XT-2026-%E9%95%BF%E6%8C%89%E5%B0%8F%E6%8C%89%E9%94%AE5%E7%A7%92%E9%87%8D%E7%BD%AE%E8%93%9D%E7%89%99.fot",
+      "size": 97280,
+      "description": "固件6"
+    },
+    
+    {
+      "version": "v1.0.0",
+      "date": "2026-08-03",
+      "url": "https://diykey-1426533931.cos.ap-guangzhou.myqcloud.com/HBTR003-KD-2026.fot",
+      "size": 97280,
+      "description": "固件11"
+    },
+
+    {
+      "version": "v1.0.0",
+      "date": "2026-08-06",
+      "url": "https://diykey-1426533931.cos.ap-guangzhou.myqcloud.com/HBTR001-K-2025-%E9%95%BF%E6%8C%89%E5%B0%8F%E6%8C%89%E9%94%AE%E9%94%81%E5%B1%8F.fot",
+      "size": 93696,
+      "description": "固件17"
+    },
+    {
+      "version": "v1.0.0",
+      "date": "2026-08-06",
+      "url": "https://diykey-1426533931.cos.ap-guangzhou.myqcloud.com/HBTR001-K-2026-%E9%95%BF%E6%8C%89%E5%B0%8F%E6%8C%89%E9%94%AE%E9%94%81%E5%B1%8F.fot",
+      "size": 93696,
+      "description": "固件18"
+    },
+    {
+      "version": "v1.0.0",
+      "date": "2026-08-13",
+      "url": "https://diykey-1426533931.cos.ap-guangzhou.myqcloud.com/Smart%201-EMP.fot",
+      "size": 99840,
+      "description": "固件19"
+    },
+    {
+      "version": "v1.0.0",
+      "date": "2026-09-03",
+      "url": "https://diykey-1426533931.cos.ap-guangzhou.myqcloud.com/HBTR002-KD.fot",
+      "size": 99840,
+      "description": "固件20"
+    },
+    {
+      "version": "v1.0.0",
+      "date": "2026-09-19",
+      "url": "https://diykey-1426533931.cos.ap-guangzhou.myqcloud.com/Smart%201-EMM.fot",
+      "size": 101888,
+      "description": "固件21"
+    },
+    {
+      "version": "v1.0.0",
+      "date": "2026-10-12",
+      "url": "https://diykey-1426533931.cos.ap-guangzhou.myqcloud.com/Smart%201-EMM%E6%96%B0%E7%89%88%E6%9C%AC.fot",
+      "size": 101888,
+      "description": "固件24"
+    },
+    {
+      "version": "v1.0.0",
+      "date": "2026-10-14",
+      "url": "https://diykey-1426533931.cos.ap-guangzhou.myqcloud.com/Smart%201-EMP%E6%96%B0%E7%89%88%E6%9C%AC.fot",
+      "size": 101888,
+      "description": "固件25"
+    },
+    
+    {
+      "version": "v1.0.0",
+      "date": "2026-10-26",
+      "url": "https://diykey-1426533931.cos.ap-guangzhou.myqcloud.com/HBTR002-XTE-2026%2810.30%29.fot",
+      "size": 101888,
+      "description": "固件34"
+    },
+    {
+      "version": "v1.0.0",
+      "date": "2026-10-26",
+      "url": "https://diykey-1426533931.cos.ap-guangzhou.myqcloud.com/HBTR002-XTE-2025%2810.30%29.fot",
+      "size": 101888,
+      "description": "固件35"
+    },
+    {
+      "version": "v1.0.0",
+      "date": "2026-10-30",
+      "url": "https://diykey-1426533931.cos.ap-guangzhou.myqcloud.com/Smart%201-EMP-kindle%E6%96%B0%E7%89%88%E6%9C%AC-261030.fot",
+      "size": 101888,
+      "description": "固件36"
+    },
+    {
+      "version": "v1.0.0",
+      "date": "2026-10-30",
+      "url": "https://diykey-1426533931.cos.ap-guangzhou.myqcloud.com/HBTR001-E-2025%2810.30%29.fot",
+      "size": 101888,
+      "description": "固件37"
+    },
+    {
+      "version": "v1.0.0",
+      "date": "2026-10-30",
+      "url": "https://diykey-1426533931.cos.ap-guangzhou.myqcloud.com/HBTR001-E-2026%2810.30%29.fot",
+      "size": 101888,
+      "description": "固件38"
+    },
+    {
+      "version": "v1.0.0",
+      "date": "2026-10-30",
+      "url": "https://diykey-1426533931.cos.ap-guangzhou.myqcloud.com/HBTR003-XTE-2026%2810.30%29.fot",
+      "size": 101888,
+      "description": "固件39"
+    },
+    {
+      "version": "v1.0.0",
+      "date": "2026-10-30",
+      "url": "https://diykey-1426533931.cos.ap-guangzhou.myqcloud.com/HBTR003-XTE-2025%2810.30%29.fot",
+      "size": 101888,
+      "description": "固件40"
+    },
+    {
+      "version": "v1.0.0",
+      "date": "2026-10-31",
+      "url": "https://diykey-1426533931.cos.ap-guangzhou.myqcloud.com/Smart%201-EMP-Kindle-20261030.fot",
+      "size": 101888,
+      "description": "固件41"
+    },
+    {
+      "version": "v1.0.0",
+      "date": "2026-11-01",
+      "url": "https://diykey-1426533931.cos.ap-guangzhou.myqcloud.com/HBTR002-X-2025%2811.01%29.fot",
+      "size": 101888,
+      "description": "固件42"
+    },
+    {
+      "version": "v1.0.0",
+      "date": "2026-11-01",
+      "url": "https://diykey-1426533931.cos.ap-guangzhou.myqcloud.com/HBTR002-X-2026%2811.01%29.fot",
+      "size": 101888,
+      "description": "固件43"
+    }
+
+
+    
+    
+    
+  ]
+}
