@@ -17,6 +17,7 @@ import (
 
 func testApp(t *testing.T) *app {
 	a := newApp(openVersionDB(filepath.Join(t.TempDir(), "versions.json")))
+	a.appVer = "v" + mygoVersion(t) // as in the built app, so snapshots match the README screenshot
 	b, err := os.ReadFile("testdata/firmware_manifest.json")
 	if err != nil {
 		t.Skip(err)
@@ -296,4 +297,17 @@ func TestVersionNumbersRepeatAcrossEditions(t *testing.T) {
 	if !tt.HasText("HBTR002-X(11.01)") || !tt.HasText("On device") {
 		t.Fatalf("X device with V1.0.7 should show the X build: %q", tt.Texts())
 	}
+}
+
+// mygoVersion is the app version from mygo.json.
+func mygoVersion(t *testing.T) string {
+	b, err := os.ReadFile("mygo.json")
+	if err != nil {
+		t.Fatal(err)
+	}
+	var m struct{ Version string }
+	if err := json.Unmarshal(b, &m); err != nil {
+		t.Fatal(err)
+	}
+	return m.Version
 }

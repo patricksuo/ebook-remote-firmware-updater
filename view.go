@@ -72,7 +72,7 @@ func (a *app) header(c *ui.Context) {
 				ui.Text(c, "Page Turner Updater").FontSize(22).Bold()
 				ui.Text(c, a.appVer).FontSize(13).TextColor(t.TextMuted)
 			})
-			ui.Text(c, "Firmware updates for 智联纵维 page turners — HBTR001/002/003, Smart 1, Zero 1").
+			ui.Text(c, "Firmware updates for 智联纵维 page turners — HBTR001/002/003").
 				FontSize(13).TextColor(t.TextMuted).Wrap()
 		})
 	})
