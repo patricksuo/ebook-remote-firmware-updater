@@ -85,7 +85,7 @@ bc48a76c0580d0ce48b43c9ca62d00c96e201761b4e561c92327e92cbc69de31  HBTR003-XTE-20
 
 </details>
 
-## Smart 1 (not an HBTR remote; this app doesn't show these)
+## Smart 1 (the maker's 3-key keycap remote; this app doesn't support it yet)
 
 | File | Date | Size (bytes) | Batch | Notes |
 |---|---|---:|---|---|
