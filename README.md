@@ -45,7 +45,7 @@ same shell, different firmware or chip batch. The edition is in the Amazon listi
 **If your remote already pairs with your Kindle and turns pages, you don't need this app.**
 
 Status: ✅ **Verified**: tested by me, or the maker's own Kindle edition · 🟢 **Reported**: the maker or other users say it works, not yet tested by me ·
-⚠️ **Experimental**: not confirmed, or can't be undone · ❌ **No**
+❌ **No**
 
 Availability is as of November 2026.
 
@@ -71,7 +71,7 @@ Availability is as of November 2026.
 |---|---|---|---|---|
 | E (Kindle) | Coming soon (per the maker) | Works out of the box | ✅ Verified | The maker's announcement; not out yet |
 | XTE (3 modes) | No (sold in China only, AFAIK) | Works out of the box | ✅ Verified | Pairs with a Kindle out of the box |
-| X (phone & tablet / "TikTok") | Yes | After updating to `HBTR003-XTE`? | ⚠️ **Experimental** | The maker's China store says HBTR003-X can be upgraded to HBTR003-XTE, but the Amazon units haven't been confirmed to be the same product. **There's no HBTR003-X firmware to go back to: you'd lose the phone swipe modes for good.** Have one and tried it? Please tell me |
+| X (phone & tablet / "TikTok") | Yes | After updating to `HBTR003-XTE` (one-way) | 🟢 Reported | The maker confirms the HBTR003 on Amazon (sold as a TikTok scrolling remote / page turner) is the HBTR003-X sold in China, which can be updated to HBTR003-XTE. Not yet tested with this app. **There's no HBTR003-X firmware to go back to: you lose the phone swipe modes for good.** |
 
 **Which Kindles work:** Kindle (2024), Kindle Paperwhite (12th gen), Kindle Colorsoft, Kindle Scribe (2024), the 2026
 Kindles, and the Kindle Scribe (2022), with Kindle software 5.20.1.0.2 or later. Older Kindles can't get Bluetooth page
@@ -163,7 +163,7 @@ repository and are downloaded from the maker's server when you install them.
 
 ## Help me fill in the tables
 
-If you update a remote marked 🟢 Reported or ⚠️ Experimental, please open an issue with:
+If you update a remote marked 🟢 Reported, please open an issue with:
 - the Bluetooth name before and after,
 - which file you installed (2025 or 2026) and whether it worked,
 - where you bought it (an Amazon link helps).
