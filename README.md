@@ -127,6 +127,7 @@ list the WeChat mini-program uses, so you always get the maker's current files. 
 the file is complete and refuses it if not. It also compares the file with the copy I checked (SHA-256): a difference
 is written to the Technical log, not blocked, because it usually means the maker has updated the file.
 The remote itself checks each file's batch key and CRC.
+All files, with dates, sizes and SHA-256: [docs/FIRMWARE.md](docs/FIRMWARE.md).
 
 ## Build from source
 
