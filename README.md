@@ -12,15 +12,8 @@ update from a Mac, in English.
 
 No Mac? For these 智联纵维 HBTR remotes, use the maker's official WeChat mini-program on your phone: **[step-by-step guide with screenshots](docs/WECHAT.md)**.
 
-<details>
-<summary>Screenshot</summary>
-
-<img src="docs/images/app.png" width="480" alt="Page Turner Updater: choose the remote, check it, choose the firmware, install">
-
-</details>
-
-> Unofficial, and I'm not affiliated with the manufacturer. Use at your own risk: a firmware update can leave a
-> remote unable to do what it did before.
+> Use at your own risk: a firmware update can leave a remote unable to do what it did before.
+> This app is unofficial; see [Disclosure](#disclosure).
 
 ## Disclosure
 
@@ -96,6 +89,13 @@ In firmware names, `(10.30)` is the maker's build label (it looks like a date), 
 ## How to use
 
 (On a phone instead: [WeChat mini-program guide for HBTR remotes](docs/WECHAT.md).)
+
+<details>
+<summary>What the app looks like</summary>
+
+<img src="docs/images/app.png" width="480" alt="Page Turner Updater: choose the remote, check it, choose the firmware, install">
+
+</details>
 
 1. **Install the app.** Open the .dmg and drag **Page Turner Updater** into *Applications*. The app isn't signed with
    an Apple developer certificate, so macOS blocks the first launch:
