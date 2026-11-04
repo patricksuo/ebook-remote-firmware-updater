@@ -48,23 +48,25 @@ It's a machine translation, so a few labels come out odd; they're explained in t
 Before you start:
 - Turn on **Bluetooth and Location** on the phone, and allow WeChat to use both when it asks.
 - **Forget the remote** wherever it's paired (Kindle, phone, Mac) and switch it OFF and ON: it only shows up while
-  it isn't connected to anything. Its LED blinks when it's ready.
+  it isn't connected to anything. Its LED blinks when it's ready. **No blinking means it's still connected somewhere:**
+  unpair it there first.
 
 | | |
 |:---:|:---:|
 | <img src="images/wechat/06-devices.jpg" width="220" alt="Searching for devices: HBTR002-X in the list"> | <img src="images/wechat/07-pairing.jpg" width="220" alt="iPhone Bluetooth Pairing Request with Cancel and Pair"> |
-| On the **home page** tab, tap **Search for Bluetooth**, then tap your remote (`HBTR001…`, `HBTR002…` or `HBTR003…`). **Not in the list?** It's probably still connected to your Kindle or another device: disconnect it there first (or turn that device's Bluetooth off), switch the remote OFF and ON, and search again | You'll see *Device Name* and *Unpair* when it's connected. **iPhone: if a "Bluetooth Pairing Request" pops up, tap Cancel.** If you pair it in iOS, the update fails |
+| The mini-program may start scanning by itself; if not, tap **Search for Bluetooth** on the **home page** tab. Tap your remote (`HBTR001…`, `HBTR002…` or `HBTR003…`; on remotes with a slide switch the name can change with the switch position, so pick the one that shows up). **Not in the list?** It's probably still connected to your Kindle or another device: disconnect it there first (or turn that device's Bluetooth off), switch the remote OFF and ON, and search again | You'll see *Device Name* and *Unpair* when it's connected. **iPhone: if a "Bluetooth Pairing Request" pops up, tap Cancel.** If you pair it in iOS, the update fails |
 
 ## 4. Install the firmware
 
 | | | |
 |:---:|:---:|:---:|
 | <img src="images/wechat/08-firmware.jpg" width="220" alt="Flash firmware tab: list of HBTR002 firmware files"> | <img src="images/wechat/09-confirm.jpg" width="220" alt="Confirm upgrade dialog: HBTR002-XTE-2026, 95.0 KB"> | <img src="images/wechat/10-progress.jpg" width="220" alt="Currently upgrading progress bar"> |
-| Open the **Flash firmware** tab at the bottom. It lists the files for your remote (the translation says *Optional fasteners*; it means *available firmware*). Tap the one you need | Check the name, then **Confirm upgrade** | Keep the phone next to the remote and don't press its buttons. It took about 35 seconds here |
+| Open the **Flash firmware** tab at the bottom. It lists the files for your remote (the translation says *Optional fasteners*; it means *available firmware*). Tap the one you need | Check the name, then **Confirm upgrade** | Keep the phone next to the remote and don't press its buttons. **Don't leave the mini-program or switch pages until it's done.** It took about 35 seconds here |
 
 <img src="images/wechat/11-done.jpg" width="220" alt="Upgrade successful dialog">
 
-**Upgrade successful**: the remote restarts by itself. Tap OK (the translation says *determine*).
+**Upgrade successful**: the remote restarts by itself, and its LED starts blinking again: that means the new firmware is in.
+Tap OK (the translation says *determine*).
 To be safe, then switch the remote **OFF and ON** once yourself.
 
 ### 2025 or 2026?
