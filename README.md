@@ -70,8 +70,8 @@ Availability is as of November 2026.
 | X (phone & tablet / "TikTok") | Yes | After updating to `HBTR003-XTE` (one-way) | 🟢 Reported | The maker confirms the HBTR003 on Amazon (sold as a TikTok scrolling remote / page turner) is the HBTR003-X sold in China, which can be updated to HBTR003-XTE. Not yet tested with this app. **There's no HBTR003-X firmware to go back to: you lose the phone swipe modes for good.** |
 
 **Which Kindles work:** Kindle (2024), Kindle Paperwhite (12th gen), Kindle Colorsoft, Kindle Scribe (2024), the 2026
-Kindles, and the Kindle Scribe (2022), with Kindle software 5.20.1.0.2 or later. Older Kindles can't get Bluetooth page
-turning from a software update. To find your model, open *Settings › Device Options › Device Info* on the Kindle.
+Kindles, and the Kindle Scribe (2022), with Kindle software 5.20.1.0.2 or later. As far as I know, older Kindles don't
+support Bluetooth page turners yet. To find your model, open *Settings › Device Options › Device Info* on the Kindle.
 Jailbroken Kindles on older software need Bluetooth/key-mapping plugins instead.
 
 In firmware names, `(10.30)` is the maker's build label (it looks like a date), not a version number.
