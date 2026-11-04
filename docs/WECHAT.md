@@ -28,7 +28,17 @@ WeChat user has to scan a QR code to vouch for you. If you get stuck there and d
 | | |
 |:---:|:---:|
 | <img src="images/wechat/04-search.jpg" width="220" alt="WeChat search for zhilianzongwei, top hit 智联纵维 Mini Program"> | <img src="images/wechat/05-home.jpg" width="220" alt="Mini-program home page, translated to English"> |
-| In WeChat, tap the **search** icon and type `zhilianzongwei` (or `智联纵维`). Tap the top hit named **智联纵维** and marked **Mini Program** | The home page is in Chinese; in my recording WeChat translated it to English by itself. It lists the same steps as below |
+| In WeChat, tap the **search** icon and type `zhilianzongwei` (or `智联纵维`). Tap the top hit named **智联纵维** and marked **Mini Program** | The mini-program is in Chinese. WeChat can translate it: see below. Translated, the home page lists the same steps as this guide |
+
+### Show it in English (or your language)
+
+| | |
+|:---:|:---:|
+| <img src="images/wechat/12-menu.jpg" width="220" alt="Mini-program menu with Change Language in the second row"> | <img src="images/wechat/13-language.jpg" width="220" alt="Translate text to: list of languages, English ticked"> |
+| Tap **•••** at the top right of the mini-program. In the second row of the menu, swipe left and tap **Change Language** | Pick your language (English, Español, 日本語, …) and tap **Done**. The page reloads translated |
+
+The same menu has a translate button to turn the translation on or off (it reads **Cancel** while the page is translated).
+It's a machine translation, so a few labels come out odd; they're explained in the steps below.
 
 ## 3. Connect the remote
 
