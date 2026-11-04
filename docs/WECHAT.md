@@ -3,8 +3,6 @@
 **This guide is only for 智联纵维's HBTR series: HBTR001 (Mini), HBTR002 (Ergo) and HBTR003 (Keycap).** Other makers'
 remotes use other updaters; for Hanlinyue (翰林阅) see [HANLINYUE.md](HANLINYUE.md).
 
-Bought one on Amazon? Step-by-step guide with the listings: [Turn a Kobo or phone remote into a Kindle page turner](https://hqb.market/blogs/journal/amazon-page-turner-kindle-firmware?utm_source=github&utm_medium=referral&utm_campaign=page-turner-updater).
-
 No Mac? You can do the same update with the maker's own updater: the **智联纵维** mini-program
 inside the WeChat app. It installs the same firmware files from the same server as the Mac app; only the route differs.
 
