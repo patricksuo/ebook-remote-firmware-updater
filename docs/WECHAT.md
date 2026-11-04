@@ -103,8 +103,6 @@ switch the name can change with the switch position, so pick the one that shows 
 | XT01 (Xteink) | Nothing | Can't be updated |
 
 If the 2025 file is refused, use the 2026 one (see [2025 or 2026?](#2025-or-2026)). Leave the other files alone.
-For HBTR002/HBTR003, go by the box or the listing you bought from: the Bluetooth name changes with the slide switch,
-so it doesn't tell you the edition.
 
 <table>
 <tr>
