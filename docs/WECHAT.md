@@ -48,8 +48,8 @@ It's a machine translation, so a few labels come out odd; they're explained in t
 Before you start:
 - Turn on **Bluetooth and Location** on the phone, and allow WeChat to use both when it asks.
 - **Forget the remote** wherever it's paired (Kindle, phone, Mac) and switch it OFF and ON: it only shows up while
-  it isn't connected to anything. Its LED blinks when it's ready. **No blinking means it's still connected somewhere:**
-  unpair it there first.
+  it isn't connected to anything. According to the maker, the LED blinks when it's ready and doesn't blink while it's
+  connected to something (I haven't checked this myself).
 
 | | |
 |:---:|:---:|
@@ -65,7 +65,7 @@ Before you start:
 
 <img src="images/wechat/11-done.jpg" width="220" alt="Upgrade successful dialog">
 
-**Upgrade successful**: the remote restarts by itself, and its LED starts blinking again: that means the new firmware is in.
+**Upgrade successful**: the remote restarts by itself (the maker says its LED starts blinking again).
 Tap OK (the translation says *determine*).
 To be safe, then switch the remote **OFF and ON** once yourself.
 
