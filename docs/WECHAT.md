@@ -1,6 +1,9 @@
-# Updating with the maker's official WeChat mini-program (iPhone / Android)
+# Updating a 智联纵维 (Zhilian Zongwei) HBTR remote with the official WeChat mini-program (iPhone / Android)
 
-No Mac? You can do the same update with the maker's own updater: the **智联纵维 (Zhilian Zongwei)** mini-program
+**This guide is only for 智联纵维's HBTR series: HBTR001 (Mini), HBTR002 (Ergo) and HBTR003 (Keycap).** Other makers'
+remotes use other updaters; for Hanlinyue (翰林阅) see [HANLINYUE.md](HANLINYUE.md).
+
+No Mac? You can do the same update with the maker's own updater: the **智联纵维** mini-program
 inside the WeChat app. It installs the same firmware files from the same server as the Mac app; only the route differs.
 
 What you need: a phone with WeChat, your remote (charged and switched on), about 10 minutes the first time.

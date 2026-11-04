@@ -10,7 +10,7 @@ update from a Mac, in English.
 
 **[⬇ Download for Mac](https://github.com/patricksuo/ebook-remote-firmware-updater/releases/latest)** · macOS 12 or later · Apple Silicon and Intel
 
-No Mac? Use the maker's official WeChat mini-program on your phone: **[step-by-step guide with screenshots](docs/WECHAT.md)**.
+No Mac? For these 智联纵维 HBTR remotes, use the maker's official WeChat mini-program on your phone: **[step-by-step guide with screenshots](docs/WECHAT.md)**.
 
 <details>
 <summary>Screenshot</summary>
@@ -29,7 +29,7 @@ No Mac? Use the maker's official WeChat mini-program on your phone: **[step-by-s
 - I mostly test firmware switching on an HBTR002-XTE. I plan to test the HBTR001-K and the HBTR003-X next.
   If you have one of these and want to try before I do, you're welcome to, at your own risk, and please share the result.
 - I'd like to add support for Hanlinyue (翰林阅) page turners too. Until then, they can be updated with a phone app
-  from their chip maker: [Hanlinyue's official Free2 guide](docs/HANLINYUE.md) (translated; I don't own one, so it's unverified).
+  from their chip maker: [Hanlinyue's official guide](docs/HANLINYUE.md) (translated; I don't own one, so it's unverified).
 
 ## Which remote do I have?
 
@@ -94,7 +94,7 @@ In firmware names, `(10.30)` is the maker's build label (it looks like a date), 
 
 ## How to use
 
-(On a phone instead: [WeChat mini-program guide](docs/WECHAT.md).)
+(On a phone instead: [WeChat mini-program guide for HBTR remotes](docs/WECHAT.md).)
 
 1. **Install the app.** Open the .dmg and drag **Page Turner Updater** into *Applications*. The app isn't signed with
    an Apple developer certificate, so macOS blocks the first launch: open it once, then go to
