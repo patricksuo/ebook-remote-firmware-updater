@@ -50,10 +50,20 @@ Before you start:
   it isn't connected to anything. According to the maker, the LED blinks when it's ready and doesn't blink while it's
   connected to something (I haven't checked this myself).
 
-| | | | |
-|:---:|:---:|:---:|:---:|
-| <img src="images/wechat/06a-search.jpg" width="180" alt="Home page scrolled down: Search for Bluetooth button"> | <img src="images/wechat/06-devices.jpg" width="180" alt="Searching for devices: HBTR002-X in the list"> | <img src="images/wechat/06b-connected.jpg" width="180" alt="Connected: Device Name HBTR002-X, Unpair"> | <img src="images/wechat/07-pairing.jpg" width="180" alt="iPhone Bluetooth Pairing Request with Cancel and Pair"> |
-| On the **home page** tab, scroll down and tap **Search for Bluetooth.** | Tap your remote (`HBTR001…`, `HBTR002…` or `HBTR003…`) | Connected: it shows *Device Name* and *Unpair* | iPhone: if a **Bluetooth Pairing Request** pops up, the maker says to tap **Cancel** |
+<table>
+<tr>
+<td width="25%" align="center"><img src="images/wechat/06a-search.jpg" width="180" alt="Home page scrolled down: Search for Bluetooth button"></td>
+<td width="25%" align="center"><img src="images/wechat/06-devices.jpg" width="180" alt="Searching for devices: HBTR002-X in the list"></td>
+<td width="25%" align="center"><img src="images/wechat/06b-connected.jpg" width="180" alt="Connected: Device Name HBTR002-X, Unpair"></td>
+<td width="25%" align="center"><img src="images/wechat/07-pairing.jpg" width="180" alt="iPhone Bluetooth Pairing Request with Cancel and Pair"></td>
+</tr>
+<tr valign="top">
+<td>On the <b>home page</b> tab, scroll down and tap <b>Search for Bluetooth.</b></td>
+<td>Tap your remote (<code>HBTR001…</code>, <code>HBTR002…</code> or <code>HBTR003…</code>)</td>
+<td>Connected: it shows <i>Device Name</i> and <i>Unpair</i></td>
+<td>iPhone: if a <b>Bluetooth Pairing Request</b> pops up, the maker says to tap <b>Cancel</b></td>
+</tr>
+</table>
 
 **Remote not in the list?** It's probably still connected to your Kindle or another device: disconnect it there
 first (or turn that device's Bluetooth off), switch the remote OFF and ON, and search again. On remotes with a slide
