@@ -97,9 +97,23 @@ In firmware names, `(10.30)` is the maker's build label (it looks like a date), 
 (On a phone instead: [WeChat mini-program guide for HBTR remotes](docs/WECHAT.md).)
 
 1. **Install the app.** Open the .dmg and drag **Page Turner Updater** into *Applications*. The app isn't signed with
-   an Apple developer certificate, so macOS blocks the first launch: open it once, then go to
-   *System Settings › Privacy & Security*, scroll down, and click **Open Anyway**. (On macOS 14 and earlier you can
-   also right-click the app and choose *Open*.) Allow Bluetooth access when asked.
+   an Apple developer certificate, so macOS blocks the first launch:
+   1. Open the app. macOS says *"Page Turner Updater" Not Opened*: click **Done** (not *Move to Trash*).
+   2. Apple menu › **System Settings…** › **Privacy & Security** (or type `security` in the search box). Scroll down
+      to *Security* and click **Open Anyway**, then confirm if macOS asks.
+   3. Open the app again and click **Allow** when it asks to use Bluetooth.
+
+   (On macOS 14 and earlier you can also right-click the app and choose *Open*.)
+
+   <details>
+   <summary>Screenshots</summary>
+
+   | | | | |
+   |:---:|:---:|:---:|:---:|
+   | <img src="docs/images/mac/01-not-opened.png" width="200" alt="Page Turner Updater Not Opened: Done, Move to Trash"> | <img src="docs/images/mac/02-apple-menu.png" width="200" alt="Apple menu: System Settings"> | <img src="docs/images/mac/03-open-anyway.png" width="320" alt="Privacy & Security, Security: Page Turner Updater was blocked, Open Anyway"> | <img src="docs/images/mac/04-bluetooth.png" width="320" alt="Page Turner Updater would like to use Bluetooth: Allow"> |
+   | Click **Done** | **System Settings…** | **Open Anyway** | **Allow** |
+
+   </details>
 2. **Get the remote ready.** Charge it. Switch it on. If it's paired to a phone, Kindle or Mac, **forget it there
    first**: it only shows up while it isn't connected to anything.
 3. **Choose your remote** in the app. *Check* is read-only.
