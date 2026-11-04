@@ -17,10 +17,18 @@ firmware list will show its own files (`HBTR001-…` for a Mini, `HBTR003-…` f
 
 Skip this if you already use WeChat.
 
-| | | |
-|:---:|:---:|:---:|
-| <img src="images/wechat/01-signup.jpg" width="220" alt="WeChat welcome screen: Log In, Sign Up"> | <img src="images/wechat/02-method.jpg" width="220" alt="Select Sign Up Method: Mobile, Apple, Facebook"> | <img src="images/wechat/03-mobile.jpg" width="220" alt="Sign Up with Mobile: name, region, mobile number, password"> |
-| Install WeChat from the App Store or Google Play, tap **Sign Up** | Pick any method. Even with **Sign up with Apple**, WeChat still asks for a phone number next | Set **Region** to your country first (it starts on *China's Mainland*), then your mobile number and a password. Tick the agreement, **Accept and Continue** |
+<table>
+<tr>
+<td width="33%" align="center"><img src="images/wechat/01-signup.jpg" width="220" alt="WeChat welcome screen: Log In, Sign Up"></td>
+<td width="33%" align="center"><img src="images/wechat/02-method.jpg" width="220" alt="Select Sign Up Method: Mobile, Apple, Facebook"></td>
+<td width="33%" align="center"><img src="images/wechat/03-mobile.jpg" width="220" alt="Sign Up with Mobile: name, region, mobile number, password"></td>
+</tr>
+<tr valign="top">
+<td>Install WeChat from the App Store or Google Play, tap <b>Sign Up</b></td>
+<td>Pick any method. Even with <b>Sign up with Apple</b>, WeChat still asks for a phone number next</td>
+<td>Set <b>Region</b> to your country first (it starts on <i>China's Mainland</i>), then your mobile number and a password. Tick the agreement, <b>Accept and Continue</b></td>
+</tr>
+</table>
 
 WeChat then texts you a code. It may also run a security check; for some new accounts that means an existing
 WeChat user has to scan a QR code to vouch for you. If you get stuck there and don't know anyone on WeChat, use the
@@ -28,17 +36,29 @@ WeChat user has to scan a QR code to vouch for you. If you get stuck there and d
 
 ## 2. Open the 智联纵维 mini-program
 
-| | |
-|:---:|:---:|
-| <img src="images/wechat/04-search.jpg" width="220" alt="WeChat search for zhilianzongwei, top hit 智联纵维 Mini Program"> | <img src="images/wechat/05-home.jpg" width="220" alt="Mini-program home page, translated to English"> |
-| In WeChat, tap the **search** icon and type `zhilianzongwei` (or `智联纵维`). Tap the top hit named **智联纵维** and marked **Mini Program** | The mini-program is in Chinese. WeChat can translate it: see below. Translated, the home page lists the same steps as this guide |
+<table>
+<tr>
+<td width="50%" align="center"><img src="images/wechat/04-search.jpg" width="220" alt="WeChat search for zhilianzongwei, top hit 智联纵维 Mini Program"></td>
+<td width="50%" align="center"><img src="images/wechat/05-home.jpg" width="220" alt="Mini-program home page, translated to English"></td>
+</tr>
+<tr valign="top">
+<td>In WeChat, tap the <b>search</b> icon and type <code>zhilianzongwei</code> (or <code>智联纵维</code>). Tap the top hit named <b>智联纵维</b> and marked <b>Mini Program</b></td>
+<td>The mini-program is in Chinese. WeChat can translate it: see below. Translated, the home page lists the same steps as this guide</td>
+</tr>
+</table>
 
 ### Show it in English (or your language)
 
-| | |
-|:---:|:---:|
-| <img src="images/wechat/12-menu.jpg" width="220" alt="Mini-program menu with Change Language in the second row"> | <img src="images/wechat/13-language.jpg" width="220" alt="Translate text to: list of languages, English ticked"> |
-| Tap **•••** at the top right of the mini-program. In the second row of the menu, swipe left and tap **Change Language** | Pick your language (English, Español, 日本語, …) and tap **Done**. The page reloads translated |
+<table>
+<tr>
+<td width="50%" align="center"><img src="images/wechat/12-menu.jpg" width="220" alt="Mini-program menu with Change Language in the second row"></td>
+<td width="50%" align="center"><img src="images/wechat/13-language.jpg" width="220" alt="Translate text to: list of languages, English ticked"></td>
+</tr>
+<tr valign="top">
+<td>Tap <b>•••</b> at the top right of the mini-program. In the second row of the menu, swipe left and tap <b>Change Language</b></td>
+<td>Pick your language (English, Español, 日本語, …) and tap <b>Done</b>. The page reloads translated</td>
+</tr>
+</table>
 
 It's a machine translation, so a few labels come out odd; they're explained in the steps below.
 
@@ -71,10 +91,18 @@ switch the name can change with the switch position, so pick the one that shows 
 
 ## 4. Install the firmware
 
-| | | |
-|:---:|:---:|:---:|
-| <img src="images/wechat/08-firmware.jpg" width="220" alt="Flash firmware tab: list of HBTR002 firmware files"> | <img src="images/wechat/09-confirm.jpg" width="220" alt="Confirm upgrade dialog: HBTR002-XTE-2026, 95.0 KB"> | <img src="images/wechat/10-progress.jpg" width="220" alt="Currently upgrading progress bar"> |
-| Open the **Flash firmware** tab at the bottom. It lists the files for your remote (the translation says *Optional fasteners*; it means *available firmware*). Tap the one you need | Check the name, then **Confirm upgrade** | Keep the phone next to the remote and don't press its buttons. **Don't leave the mini-program or switch pages until it's done.** It took about 35 seconds here |
+<table>
+<tr>
+<td width="33%" align="center"><img src="images/wechat/08-firmware.jpg" width="220" alt="Flash firmware tab: list of HBTR002 firmware files"></td>
+<td width="33%" align="center"><img src="images/wechat/09-confirm.jpg" width="220" alt="Confirm upgrade dialog: HBTR002-XTE-2026, 95.0 KB"></td>
+<td width="33%" align="center"><img src="images/wechat/10-progress.jpg" width="220" alt="Currently upgrading progress bar"></td>
+</tr>
+<tr valign="top">
+<td>Open the <b>Flash firmware</b> tab at the bottom. It lists the files for your remote (the translation says <i>Optional fasteners</i>; it means <i>available firmware</i>). Tap the one you need</td>
+<td>Check the name, then <b>Confirm upgrade</b></td>
+<td>Keep the phone next to the remote and don't press its buttons. <b>Don't leave the mini-program or switch pages until it's done.</b> It took about 35 seconds here</td>
+</tr>
+</table>
 
 <img src="images/wechat/11-done.jpg" width="220" alt="Upgrade successful dialog">
 
