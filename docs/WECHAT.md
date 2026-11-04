@@ -30,9 +30,8 @@ Skip this if you already use WeChat.
 </tr>
 </table>
 
-WeChat then texts you a code. It may also run a security check; for some new accounts that means an existing
-WeChat user has to scan a QR code to vouch for you. If you get stuck there and don't know anyone on WeChat, use the
-[Mac app](../README.md) instead.
+WeChat then sends you a verification code, sometimes as an automated voice call, so make sure international calls
+aren't blocked ([WeChat Help](https://cs.help.wechat.com/hc/en-us/articles/16403968439055)). If you get stuck, use the [Mac app](../README.md) instead.
 
 ## 2. Open the 智联纵维 mini-program
 
