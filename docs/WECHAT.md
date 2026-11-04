@@ -144,12 +144,10 @@ The Kindle needs software **5.20.1.0.2 or later** and a supported model; see
 
 ## If something goes wrong
 
-- **The remote isn't in the list.** It's still connected to something: turn off Bluetooth on your Kindle or other
-  phone for a moment, turn the remote off and on, and search again. If the search area is blank, close and reopen
-  the mini-program.
-- **The update stopped halfway.** Turn the remote off and on, connect again and install the same file again.
-- **HBTR002: "Bluetooth reset".** The Flash firmware page also shows the maker's reset tip: press and hold the
-  center button while moving the side switch (but not to OFF).
+- **The remote isn't in the list.** The maker says: if it's connected to another device, disconnect it there first;
+  if the search area doesn't show Bluetooth, reload the mini-program.
+- **Bluetooth reset.** The maker's tips: HBTR001: hold the small button for 5 seconds (from the firmware file names).
+  HBTR002: hold the center button while moving the side switch (but not to OFF) (from the Flash firmware page).
 - **The Kindle doesn't find the remote.** Check the Kindle's model and software (HBTR002/HBTR003: switch on ↕), and that the
   remote isn't still connected to the phone.
 

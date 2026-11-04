@@ -132,10 +132,10 @@ In firmware names, `(10.30)` is the maker's build label (it looks like a date), 
   (turn their Bluetooth off for a moment). Check that the app is allowed in *System Settings › Privacy & Security › Bluetooth*.
 - **"key mismatch".** The file is for the other chip batch. Nothing was installed; choose the other year (2025 ↔ 2026).
   If both are refused, your remote is a different edition than you think: check the tables above.
-- **The update stopped halfway** (timeout, disconnected). Switch the remote OFF and ON, then install again. It
+- **The update stopped halfway** (timeout, disconnected). Turn the remote off and on, then install again. It
   continues where it stopped.
 - **"Wait … s" after reading the version.** Reading the installed version puts the remote in update mode for up to
-  a minute. Wait, or switch it OFF and ON.
+  a minute. Wait, or turn it off and on.
 - **The Kindle doesn't find the remote after the update.** Check the Kindle's model and software (see *Which Kindles work* above), the
   switch position (↕ on XTE remotes), and that the remote isn't still connected to the Mac.
 
