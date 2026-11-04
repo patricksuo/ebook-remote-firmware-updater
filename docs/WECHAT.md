@@ -6,7 +6,7 @@ remotes use other updaters; for Hanlinyue (翰林阅) see [HANLINYUE.md](HANLINY
 No Mac? You can do the same update with the maker's own updater: the **智联纵维** mini-program
 inside the WeChat app. It installs the same firmware files from the same server as the Mac app; only the route differs.
 
-What you need: a phone with WeChat, your remote (charged and switched on), about 10 minutes the first time.
+What you need: a phone with WeChat, your remote (switched on, battery not low), about 10 minutes the first time.
 The screenshots below are from an iPhone in English, updating an HBTR002 (Ergo) to `HBTR002-XTE-2026`. Your remote's
 firmware list will show its own files (`HBTR001-…` for a Mini, `HBTR003-…` for a Keycap).
 
