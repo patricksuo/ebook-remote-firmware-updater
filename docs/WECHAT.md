@@ -52,6 +52,7 @@ Before you start:
 <img src="images/wechat/11-done.jpg" width="220" alt="Upgrade successful dialog">
 
 **Upgrade successful**: the remote restarts by itself. Tap OK (the translation says *determine*).
+To be safe, then switch the remote **OFF and ON** once yourself.
 
 ### 2025 or 2026?
 
@@ -62,7 +63,10 @@ a different edition than you think; check the README tables.
 
 ## 5. Pair it with your Kindle
 
-1. In the mini-program, tap **Unpair**, or close WeChat, so the remote is free again.
+1. **Disconnect the remote from your phone**, or the phone may grab it again before the Kindle can:
+   in the mini-program tap **Unpair** and close WeChat. If the remote also shows up in the phone's own Bluetooth
+   settings, tap it there and choose **Forget This Device** (iPhone) or **Unpair** (Android). Turning the phone's
+   Bluetooth off while you pair the Kindle works too.
 2. **HBTR002 / HBTR003 (XTE firmware):** set the slide switch to the **up/down (↕)** position. That's Kindle mode.
 3. On the Kindle: *Settings › Bluetooth*, then pair the remote.
 
