@@ -30,8 +30,7 @@ Skip this if you already use WeChat.
 </tr>
 </table>
 
-WeChat then sends you a verification code by text (sometimes by voice call, [says WeChat](https://cs.help.wechat.com/hc/en-us/articles/16403968439055)).
-If you get stuck, use the [Mac app](../README.md) instead.
+WeChat then texts you a verification code. If you get stuck, use the [Mac app](../README.md) instead.
 
 ## 2. Open the 智联纵维 mini-program
 
