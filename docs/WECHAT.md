@@ -40,7 +40,7 @@ Before you start:
 | | |
 |:---:|:---:|
 | <img src="images/wechat/06-devices.jpg" width="220" alt="Searching for devices: HBTR002-X in the list"> | <img src="images/wechat/07-pairing.jpg" width="220" alt="iPhone Bluetooth Pairing Request with Cancel and Pair"> |
-| On the **home page** tab, tap **Search for Bluetooth**, then tap your remote (`HBTR001…`, `HBTR002…` or `HBTR003…`) | You'll see *Device Name* and *Unpair* when it's connected. **iPhone: if a "Bluetooth Pairing Request" pops up, tap Cancel.** If you pair it in iOS, the update fails |
+| On the **home page** tab, tap **Search for Bluetooth**, then tap your remote (`HBTR001…`, `HBTR002…` or `HBTR003…`). **Not in the list?** It's probably still connected to your Kindle or another device: disconnect it there first (or turn that device's Bluetooth off), switch the remote OFF and ON, and search again | You'll see *Device Name* and *Unpair* when it's connected. **iPhone: if a "Bluetooth Pairing Request" pops up, tap Cancel.** If you pair it in iOS, the update fails |
 
 ## 4. Install the firmware
 
