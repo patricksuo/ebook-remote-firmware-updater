@@ -40,7 +40,6 @@ WeChat user has to scan a QR code to vouch for you. If you get stuck there and d
 | <img src="images/wechat/12-menu.jpg" width="220" alt="Mini-program menu with Change Language in the second row"> | <img src="images/wechat/13-language.jpg" width="220" alt="Translate text to: list of languages, English ticked"> |
 | Tap **•••** at the top right of the mini-program. In the second row of the menu, swipe left and tap **Change Language** | Pick your language (English, Español, 日本語, …) and tap **Done**. The page reloads translated |
 
-The same menu has a translate button to turn the translation on or off (it reads **Cancel** while the page is translated).
 It's a machine translation, so a few labels come out odd; they're explained in the steps below.
 
 ## 3. Connect the remote
@@ -51,10 +50,10 @@ Before you start:
   it isn't connected to anything. According to the maker, the LED blinks when it's ready and doesn't blink while it's
   connected to something (I haven't checked this myself).
 
-| | |
-|:---:|:---:|
-| <img src="images/wechat/06-devices.jpg" width="220" alt="Searching for devices: HBTR002-X in the list"> | <img src="images/wechat/07-pairing.jpg" width="220" alt="iPhone Bluetooth Pairing Request with Cancel and Pair"> |
-| The mini-program may start scanning by itself; if not, tap **Search for Bluetooth** on the **home page** tab. Tap your remote (`HBTR001…`, `HBTR002…` or `HBTR003…`; on remotes with a slide switch the name can change with the switch position, so pick the one that shows up). **Not in the list?** It's probably still connected to your Kindle or another device: disconnect it there first (or turn that device's Bluetooth off), switch the remote OFF and ON, and search again | You'll see *Device Name* and *Unpair* when it's connected. **iPhone: if a "Bluetooth Pairing Request" pops up, tap Cancel.** If you pair it in iOS, the update fails |
+| |
+|:---:|
+| <img src="images/wechat/06-devices.jpg" width="220" alt="Searching for devices: HBTR002-X in the list"> |
+| The mini-program may start scanning by itself; if not, tap **Search for Bluetooth** on the **home page** tab. Tap your remote (`HBTR001…`, `HBTR002…` or `HBTR003…`; on remotes with a slide switch the name can change with the switch position, so pick the one that shows up). You'll see *Device Name* and *Unpair* when it's connected. **Not in the list?** It's probably still connected to your Kindle or another device: disconnect it there first (or turn that device's Bluetooth off), switch the remote OFF and ON, and search again |
 
 ## 4. Install the firmware
 
