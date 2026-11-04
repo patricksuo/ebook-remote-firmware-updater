@@ -28,7 +28,7 @@ WeChat user has to scan a QR code to vouch for you. If you get stuck there and d
 | | |
 |:---:|:---:|
 | <img src="images/wechat/04-search.jpg" width="220" alt="WeChat search for zhilianzongwei, top hit 智联纵维 Mini Program"> | <img src="images/wechat/05-home.jpg" width="220" alt="Mini-program home page, translated to English"> |
-| In WeChat, tap the **search** icon and type `zhilianzongwei` (or `智联纵维`). Tap the top hit marked **Mini Program**, with the ZLINK logo | The home page is in Chinese; in my recording WeChat translated it to English by itself. It lists the same steps as below |
+| In WeChat, tap the **search** icon and type `zhilianzongwei` (or `智联纵维`). Tap the top hit named **智联纵维** and marked **Mini Program** | The home page is in Chinese; in my recording WeChat translated it to English by itself. It lists the same steps as below |
 
 ## 3. Connect the remote
 
