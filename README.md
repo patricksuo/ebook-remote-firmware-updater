@@ -24,7 +24,7 @@ No Mac? For these 智联纵维 HBTR remotes, use the maker's official WeChat min
 
 ## Disclosure
 
-- I'm not affiliated with the maker, but I'm not neutral either: I run a Shopify store ([hqb.market](https://hqb.market))
+- I'm not affiliated with the maker, but I'm not neutral either: I run a Shopify store ([hqb.market](https://hqb.market/?utm_source=github&utm_medium=referral&utm_campaign=page-turner-updater))
   that sells their HBTR page turners, and I buy from them directly. I have no connection with the Amazon stores selling these remotes.
 - I mostly test firmware switching on an HBTR002-XTE. I plan to test the HBTR001-K and the HBTR003-X next.
   If you have one of these and want to try before I do, you're welcome to, at your own risk, and please share the result.
