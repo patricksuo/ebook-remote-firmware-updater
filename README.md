@@ -39,6 +39,8 @@ same shell, different firmware or chip batch. The edition is in the Amazon listi
 
 **If your remote already pairs with your Kindle and turns pages, you don't need this app.**
 
+Bought one on Amazon? Step-by-step guide with the listings: [Turn a Kobo or phone remote into a Kindle page turner](https://hqb.market/blogs/journal/amazon-page-turner-kindle-firmware?utm_source=github&utm_medium=referral&utm_campaign=page-turner-updater).
+
 Status: ✅ **Verified**: tested by me, or the maker's own Kindle edition · 🟢 **Reported**: the maker or other users say it works, not yet tested by me ·
 ❌ **No**
 
