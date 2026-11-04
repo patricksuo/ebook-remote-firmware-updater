@@ -28,8 +28,8 @@ No Mac? Use the maker's official WeChat mini-program on your phone: **[step-by-s
   that sells their HBTR page turners, and I buy from them directly. I have no connection with the Amazon stores selling these remotes.
 - I mostly test firmware switching on an HBTR002-XTE. I plan to test the HBTR001-K and the HBTR003-X next.
   If you have one of these and want to try before I do, you're welcome to, at your own risk, and please share the result.
-- I'd like to add support for Hanlinyue (翰林阅) page turners too. I haven't looked into them yet; their updater
-  seems to need a Windows PC, but a Mac version may be possible.
+- I'd like to add support for Hanlinyue (翰林阅) page turners too. Until then, they can be updated with a phone app
+  from their chip maker: [Hanlinyue's official Free2 guide](docs/HANLINYUE.md) (translated; I don't own one, so it's unverified).
 
 ## Which remote do I have?
 
