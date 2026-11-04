@@ -115,7 +115,7 @@ In firmware names, `(10.30)` is the maker's build label (it looks like a date), 
    | Click **Done** | **System Settings…** | **Open Anyway** | **Allow** |
 
    </details>
-2. **Get the remote ready.** Make sure its battery isn't low (it doesn't need to be plugged in). Switch it on. If it's paired to a phone, Kindle or Mac, **forget it there
+2. **Get the remote ready.** Switch it on, with enough battery. If it's paired to a phone, Kindle or Mac, **forget it there
    first**: it only shows up while it isn't connected to anything.
 3. **Choose your remote** in the app. *Check* is read-only.
 4. **Choose the firmware** from the tables above. Most files come in a `-2025` and a `-2026` version: the same program
