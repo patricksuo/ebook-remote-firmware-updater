@@ -10,8 +10,8 @@ What you need: a phone with WeChat, your remote (switched on, battery not low), 
 The screenshots below are from an iPhone in English, updating an HBTR002 (Ergo) to `HBTR002-XTE-2026`. Your remote's
 firmware list will show its own files (`HBTR001-…` for a Mini, `HBTR003-…` for a Keycap).
 
-**First check which firmware you need** in the README tables:
-[Will it work with my Kindle?](../README.md#will-it-work-with-my-kindle). `XT01` remotes can't be updated at all.
+**First check which firmware you need:** [Which file?](#which-file) (details in the README:
+[Will it work with my Kindle?](../README.md#will-it-work-with-my-kindle)).
 
 ## 1. Get a WeChat account
 
@@ -90,6 +90,21 @@ first (or turn that device's Bluetooth off), switch the remote OFF and ON, and s
 switch the name can change with the switch position, so pick the one that shows up.
 
 ## 4. Install the firmware
+
+### Which file?
+
+| Your remote | Tap | Note |
+|---|---|---|
+| HBTR001-K (Kobo) | `HBTR001-E-2025(10.30)` | |
+| HBTR001 (phone edition, no suffix) | `HBTR001-E-2025(10.30)` | |
+| HBTR002-XT | `HBTR002-XTE-2025(10.30)` | |
+| HBTR003-X | `HBTR003-XTE-2025(10.30)` | One-way: there's no HBTR003-X file to go back to |
+| Any E or XTE edition | Nothing | It already works with a Kindle |
+| XT01 (Xteink) | Nothing | Can't be updated |
+
+If the 2025 file is refused, use the 2026 one (see [2025 or 2026?](#2025-or-2026)). Leave the other files alone.
+For HBTR002/HBTR003, go by the box or the listing you bought from: the Bluetooth name changes with the slide switch,
+so it doesn't tell you the edition.
 
 <table>
 <tr>
