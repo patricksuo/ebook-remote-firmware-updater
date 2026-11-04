@@ -6,7 +6,7 @@ remotes use other updaters; for Hanlinyue (翰林阅) see [HANLINYUE.md](HANLINY
 No Mac? You can do the same update with the maker's own updater: the **智联纵维** mini-program
 inside the WeChat app. It installs the same firmware files from the same server as the Mac app; only the route differs.
 
-What you need: a phone with WeChat, your remote (switched on, battery not low), about 10 minutes the first time.
+What you need: a phone with WeChat, your remote (turned on, battery not low), about 10 minutes the first time.
 The screenshots below are from an iPhone in English, updating an HBTR002 (Ergo) to `HBTR002-XTE-2026`. Your remote's
 firmware list will show its own files (`HBTR001-…` for a Mini, `HBTR003-…` for a Keycap).
 
@@ -66,7 +66,7 @@ It's a machine translation, so a few labels come out odd; they're explained in t
 
 Before you start:
 - Turn on **Bluetooth and Location** on the phone, and allow WeChat to use both when it asks.
-- **Forget the remote** wherever it's paired (Kindle, phone, Mac) and switch it OFF and ON: it only shows up while
+- **Forget the remote** wherever it's paired (Kindle, phone, Mac) and turn it off and on: it only shows up while
   it isn't connected to anything. According to the maker, the LED blinks when it's ready and doesn't blink while it's
   connected to something (I haven't checked this myself).
 
@@ -86,8 +86,8 @@ Before you start:
 </table>
 
 **Remote not in the list?** It's probably still connected to your Kindle or another device: disconnect it there
-first (or turn that device's Bluetooth off), switch the remote OFF and ON, and search again. On remotes with a slide
-switch the name can change with the switch position, so pick the one that shows up.
+first (or turn that device's Bluetooth off), turn the remote off and on, and search again. An HBTR002 with XTE
+firmware shows a different name for each switch position (`HBTR002-XTE3`, `HBTR002-XT`, `HBTR002-XTE`).
 
 ## 4. Install the firmware
 
@@ -121,7 +121,7 @@ If the 2025 file is refused, use the 2026 one (see [2025 or 2026?](#2025-or-2026
 
 **Upgrade successful**: the remote restarts by itself (the maker says its LED starts blinking again).
 Tap OK (the translation says *determine*).
-To be safe, then switch the remote **OFF and ON** once yourself.
+To be safe, then turn the remote **off and on** once yourself.
 
 ### 2025 or 2026?
 
@@ -145,12 +145,12 @@ The Kindle needs software **5.20.1.0.2 or later** and a supported model; see
 ## If something goes wrong
 
 - **The remote isn't in the list.** It's still connected to something: turn off Bluetooth on your Kindle or other
-  phone for a moment, switch the remote OFF and ON, and search again. If the search area is blank, close and reopen
+  phone for a moment, turn the remote off and on, and search again. If the search area is blank, close and reopen
   the mini-program.
-- **The update stopped halfway.** Switch the remote OFF and ON, connect again and install the same file again.
+- **The update stopped halfway.** Turn the remote off and on, connect again and install the same file again.
 - **HBTR002: "Bluetooth reset".** The Flash firmware page also shows the maker's reset tip: press and hold the
   center button while moving the side switch (but not to OFF).
-- **The Kindle doesn't find the remote.** Check the Kindle's model and software, the switch position (↕), and that the
+- **The Kindle doesn't find the remote.** Check the Kindle's model and software (HBTR002/HBTR003: switch on ↕), and that the
   remote isn't still connected to the phone.
 
 Questions, or a remote that isn't in the README tables yet? [Open an issue](https://github.com/patricksuo/ebook-remote-firmware-updater/issues).
