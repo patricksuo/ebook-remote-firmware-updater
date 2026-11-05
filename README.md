@@ -120,7 +120,7 @@ In firmware names, `(10.30)` is the maker's build label (it looks like a date), 
 3. **Choose your remote** in the app. *Check* is read-only.
 4. **Choose the firmware** from the tables above. Most files come in a `-2025` and a `-2026` version: the same program
    for two production batches of the chip, and you can't tell the batch from the outside.
-   **Try 2025 first; if the update stops right away with "key mismatch", install 2026.**
+   **Try 2026 first; if the update stops right away with "key mismatch", install 2025.**
 5. **Click Install.** It takes about 20 seconds; keep the remote next to the Mac and don't press its buttons.
    The remote restarts by itself. If macOS asks whether to connect the remote, either answer works for the update.
 6. **Pair it with your Kindle:** forget the remote in the Mac's Bluetooth settings, put an XTE remote in the ↕ position,

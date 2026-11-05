@@ -93,14 +93,14 @@ firmware shows a different name for each switch position (`HBTR002-XTE3`, `HBTR0
 
 | Your remote | Tap | Note |
 |---|---|---|
-| HBTR001-K (Kobo) | `HBTR001-E-2025(10.30)` | |
-| HBTR001 (phone edition, no suffix) | `HBTR001-E-2025(10.30)` | |
-| HBTR002-XT | `HBTR002-XTE-2025(10.30)` | |
-| HBTR003-X | `HBTR003-XTE-2025(10.30)` | One-way: there's no HBTR003-X file to go back to |
+| HBTR001-K (Kobo) | `HBTR001-E-2026(10.30)` | |
+| HBTR001 (phone edition, no suffix) | `HBTR001-E-2026(10.30)` | |
+| HBTR002-XT | `HBTR002-XTE-2026(10.30)` | |
+| HBTR003-X | `HBTR003-XTE-2026(10.30)` | One-way: there's no HBTR003-X file to go back to |
 | Any E or XTE edition | Nothing | It already works with a Kindle |
 | XT01 (Xteink) | Nothing | Can't be updated |
 
-If the 2025 file is refused, use the 2026 one (see [2025 or 2026?](#2025-or-2026)). Leave the other files alone.
+If the 2026 file is refused, use the 2025 one (see [2025 or 2026?](#2025-or-2026)). Leave the other files alone.
 
 <table>
 <tr>
@@ -124,8 +124,8 @@ To be safe, then turn the remote **off and on** once yourself.
 ### 2025 or 2026?
 
 Most files come in a `-2025` and a `-2026` version for two production batches of the chip; you can't tell them apart
-from the outside. **Try 2025 first.** If the update stops right away with a *KEY mismatch* error
-(文件包返回错误，KEY不匹配), nothing was installed: install the 2026 file instead. If both are refused, your remote is
+from the outside. **Try 2026 first.** If the update stops right away with a *KEY mismatch* error
+(文件包返回错误，KEY不匹配), nothing was installed: install the 2025 file instead. If both are refused, your remote is
 a different edition than you think; check the README tables.
 
 ## 5. Pair it with your Kindle
