@@ -28,7 +28,7 @@ No Mac? For these 智联纵维 HBTR remotes, use the maker's official WeChat min
 
 The maker makes three bodies. It names them only HBTR001, HBTR002 and HBTR003, and Amazon listings call them
 different things; in my store they're **Mini**, **Ergo** and **Keycap**. Each body comes in several **editions**:
-same shell, different firmware or chip batch. The edition is in the Amazon listing or on the box.
+same shell, different firmware or chip batch. The edition is in the name it shows up as in Bluetooth settings (for example `HBTR001-K`).
 
 | <img src="docs/images/hbtr001.jpg" width="160" alt="HBTR001"> | <img src="docs/images/hbtr002.jpg" width="160" alt="HBTR002"> | <img src="docs/images/hbtr003.jpg" width="160" alt="HBTR003"> |
 |:---:|:---:|:---:|
