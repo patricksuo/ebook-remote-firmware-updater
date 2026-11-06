@@ -18,7 +18,7 @@ No Mac? For these 智联纵维 HBTR remotes, use the maker's official WeChat min
 ## Disclosure
 
 - I'm not affiliated with the maker, but I'm not neutral either: I run a Shopify store
-  that sells their HBTR page turners, and I buy from them directly. I have no connection with the Amazon stores selling these remotes.
+  that sells their HBTR page turners, and I buy from them directly.
 - I mostly test firmware switching on an HBTR002-XTE. I plan to test the HBTR001-K and the HBTR003-X next.
   If you have one of these and want to try before I do, you're welcome to, at your own risk, and please share the result.
 - I'd like to add support for Hanlinyue (翰林阅) page turners too. Until then, they can be updated with a phone app
@@ -186,4 +186,4 @@ repository and are downloaded from the maker's server when you install them.
 If you update a remote marked 🟢 Reported, please open an issue with:
 - the Bluetooth name before and after,
 - which file you installed (2025 or 2026) and whether it worked,
-- where you bought it (an Amazon link helps).
+- where you bought it.
